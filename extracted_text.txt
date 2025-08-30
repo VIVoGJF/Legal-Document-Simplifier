@@ -1,0 +1,11 @@
+Sample Legal Document
+This Non-Disclosure Agreement (NDA) is entered into between Party A and Party B. The purpose of
+this Agreement is to protect confidential information that may be disclosed between the parties.
+Confidential information includes but is not limited to trade secrets, financial data, and technical
+processes.
+The receiving party agrees not to disclose any confidential information to third parties without prior
+written consent. The obligations of confidentiality shall remain in effect for a period of three (3) years
+from the date of disclosure.
+In the event of a breach of this Agreement, the disclosing party shall be entitled to seek legal remedies,
+including but not limited to injunctive relief and damages. This Agreement shall be governed by the
+laws of the State of California.
